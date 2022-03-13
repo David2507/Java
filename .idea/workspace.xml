@@ -2,110 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab099f74-1f26-4c9a-b1dd-9b9935e3c3d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/Homework.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/Arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/Homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/IfNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/Loops.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/String.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/Tigrana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Homework/src/Varaibles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/TEST.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/Xary koder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Ankyunagcer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/ArrayiMejLcnel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/BubbleSorting2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/GcayinAlgoritmner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/MaxMinArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Porcarkumner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Porcarkumner2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Porcarkumner3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/ScannerNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Stringer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/TarberPatkerner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/Tarer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/ThreeAndFourNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/TviQarakusi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/TviTary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/TviXoranard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/XeriMejY.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/Xary koder/src/esim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/IfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/Loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/Tigrana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Homework/Varaibles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Array1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Array2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/ArrayListMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/ArraySorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/BubbleSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Formatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Homework1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Homework2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Homework3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Moto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/MyHome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/Recursion1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/String1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/String2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/StringMetods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/TEST/gfg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Ankyunagcer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/ArrayiMejLcnel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/BubbleSorting2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/GcayinAlgoritmner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/MaxMinArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Porcarkumner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Porcarkumner2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Porcarkumner3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/ScannerNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Stringer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/TarberPatkerner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/Tarer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/ThreeAndFourNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/TviQarakusi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/TviTary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/TviXoranard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/out/production/Xary koder/XeriMejY.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Array1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Array2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/ArrayListMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/ArraySorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/BubbleSorting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Formatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Home.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Homework1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Homework2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Homework3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Moto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/MyHome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Recursion1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/String1Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/String2Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/StringMetods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/gfg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Array1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Array2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/ArrayListMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/ArraySorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/BubbleSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Formatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/MyHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Recursion1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/String1Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/String2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/StringMetods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/gfg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/gfg.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IdeaProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
