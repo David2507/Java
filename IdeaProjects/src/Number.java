@@ -1,7 +1,7 @@
 public class Number {
 
 
-    static int number(int[] nums) {
+    static void number(int[] nums) {
 
         for (int i = 0; i < nums.length-1; i++) {
             if (nums[i] + nums[i + 1] == 10) {
@@ -9,7 +9,6 @@ public class Number {
                 System.out.println(nums[i + 1]);
             }
         }
-        return 0;
     }
 
     public static void main(String[] args) {

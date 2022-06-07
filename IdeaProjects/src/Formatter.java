@@ -5,7 +5,7 @@ import java.time.format.FormatStyle;
 public class Formatter {
 
 
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 //        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("E,MMM dd yyyy");
 //        LocalDate date = LocalDate.parse("Thu, Sep 29 1988", formatter);
 //        LocalTime time = LocalTime.parse("15:44");
@@ -38,4 +38,4 @@ public class Formatter {
 //        System.out.println(data.plus(period).plus(period1).plus(period2));
 //        System.out.println(time);
     }
-}
+

@@ -1,9 +1,7 @@
-import java.util.Locale;
-
 public class StringMetods {
     public static void main(String[] args) {
-        String chap = "StringName";
-        String chap2 = "gravor";
+        java.lang.String chap = "StringName";
+        java.lang.String chap2 = "gravor";
 //        System.out.println(chap.trim().toUpperCase().replace("S","go")); mi qani metod miacrac
 //        System.out.println(chap.trim()); //texti skzbi ev verji prabelnery jnjum e
 //        System.out.println(chap.replace("n","N")); //poxarinel texty

@@ -1,32 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ab099f74-1f26-4c9a-b1dd-9b9935e3c3d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Array1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Array2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/ArrayListMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/ArraySorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/BubbleSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Formatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Home.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Homework3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Moto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/MyHome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/Recursion1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/String1Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/String2Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/StringMetods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/out/production/TEST/gfg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/gfg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/Xary koder/src/Ankyunagcer.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/Xary koder/src/Ankyunagcer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/Xary koder/src/TviTary.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/Xary koder/src/TviTary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/src/Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/src/Homework1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/src/Homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/src/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaProjects/src/StringMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaProjects/src/StringMetods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +33,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.TviTary">
+    <configuration name="Ankyunagcer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ankyunagcer" />
+      <module name="Xary koder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TarberPatkerner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TarberPatkerner" />
+      <module name="Xary koder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TviTary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TviTary" />
+      <module name="Xary koder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TviTary" />
+        <item itemvalue="Application.Ankyunagcer" />
+        <item itemvalue="Application.TarberPatkerner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
